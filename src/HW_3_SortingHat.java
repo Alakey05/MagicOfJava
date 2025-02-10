@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class SortingHat {
+public class HW_3_SortingHat {
     public static void main(String[] args) {
-        SortingHat sortingHat = new SortingHat();
+        HW_3_SortingHat sortingHat = new HW_3_SortingHat();
         sortingHat.sort();
     }
     public void sort(){
