@@ -13,5 +13,6 @@ public class HW_1_Task_1 {
         System.out.println(snape);
         System.out.println(lupin);
         System.out.println(hugrid);
+        System.out.println(hugrid);
     }
 }
